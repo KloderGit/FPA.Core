@@ -1,0 +1,9 @@
+[submodule "FPA.Core/Repositories/AmoCRM"]
+	path = FPA.Core/Repositories/AmoCRM
+	url = https://github.com/KloderGit/ServiceLibraryAmoCRM.git
+[submodule "FPA.Core/Repositories/Neo4j"]
+	path = FPA.Core/Repositories/Neo4j
+	url = https://github.com/KloderGit/ServiceLibraryNeoClient.git
+[submodule "FPA.Core/Repositories/Soap1C"]
+	path = FPA.Core/Repositories/Soap1C
+	url = https://github.com/KloderGit/1CServiceLibrary.git
