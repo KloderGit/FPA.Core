@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Domain\Models\Poco1C\" />
-    <Folder Include="Domain\Models\PocoAmoCRM\" />
+    <Folder Include="Domain\Models\EducationEntity\" />
+    <Folder Include="Domain\Models\AmoCRMEntity\" />
     <Folder Include="Services\Intefaces1C\" />
     <Folder Include="Services\IntefacesAmoCRM\" />
     <Folder Include="Repositories\" />
