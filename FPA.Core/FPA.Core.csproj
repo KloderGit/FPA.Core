@@ -7,7 +7,6 @@
   <ItemGroup>
     <Folder Include="Domain\Models\Poco1C\" />
     <Folder Include="Domain\Models\PocoAmoCRM\" />
-    <Folder Include="Services\Intefaces1C\" />
     <Folder Include="Services\IntefacesAmoCRM\" />
     <Folder Include="Repositories\" />
   </ItemGroup>
