@@ -13,9 +13,4 @@
     <None Remove="Services\IntefacesAmoCRM\**" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Domain\Models\AmoCRMEntity\" />
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
 </Project>
