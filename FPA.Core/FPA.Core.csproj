@@ -5,10 +5,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Domain\Models\EducationEntity\" />
+    <Compile Remove="Services\Intefaces1C\**" />
+    <Compile Remove="Services\IntefacesAmoCRM\**" />
+    <EmbeddedResource Remove="Services\Intefaces1C\**" />
+    <EmbeddedResource Remove="Services\IntefacesAmoCRM\**" />
+    <None Remove="Services\Intefaces1C\**" />
+    <None Remove="Services\IntefacesAmoCRM\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Domain\Models\AmoCRMEntity\" />
-    <Folder Include="Services\Intefaces1C\" />
-    <Folder Include="Services\IntefacesAmoCRM\" />
     <Folder Include="Repositories\" />
   </ItemGroup>
 
